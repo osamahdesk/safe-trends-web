@@ -1,0 +1,6 @@
+{
+  "name": "شركة الاتجاهات الآمنة للحلول العقارية",
+  "description": "المنصة الرسمية النخبوية الاستثمارية والحلول السكنية لشركة الاتجاهات الآمنة للحلول العقارية في جدة، المملكة العربية السعودية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
